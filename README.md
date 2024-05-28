@@ -1,3 +1,7 @@
+<p align="center" style="margin: 0 0 10px">
+  <img width="200" height="200" src="https://github.com/Lujeni/amber-files/blob/main/amber.png?raw=true" alt='Amber'>
+</p>
+
 ## Amber files 🦊
 
 I created this project because I needed a quick and easy way to test my Neovim setup with various programming languages.
