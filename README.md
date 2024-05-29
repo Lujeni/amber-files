@@ -11,9 +11,9 @@ This way, I can see how my editor handles everything from syntax highlighting to
 ### What's Inside
 
 - **Handy scripts** that show off a bunch of features in different programming languages:
-  - **Python**
-  - **Lua**
-  - **Elixir**
+  - [**Python**](./python/examples-01/)
+  - [**Lua**](./lua/examples-01/)
+  - [**Elixir**](./elixir/examples-01/)
   - **Bash**
   - **Go**
   - **HTML/JS**
