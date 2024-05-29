@@ -11,9 +11,9 @@ This way, I can see how my editor handles everything from syntax highlighting to
 ### What's Inside
 
 - **Handy scripts** that show off a bunch of features in different programming languages:
-  - [**Python**](./python/examples-01/)
-  - [**Lua**](./lua/examples-01/)
-  - [**Elixir**](./elixir/examples-01/)
+  - [**Python**](https://github.com/Lujeni/amber-files/tree/main/python/example-01)
+  - [**Lua**](https://github.com/Lujeni/amber-files/tree/main/lua/example-01)
+  - [**Elixir**](https://github.com/Lujeni/amber-files/tree/main/elixir/example-01)
   - **Bash**
   - **Go**
   - **HTML/JS**
