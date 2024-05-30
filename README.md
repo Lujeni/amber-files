@@ -17,6 +17,7 @@ This way, I can see how my editor handles everything from syntax highlighting to
   - **Bash**
   - **Go**
   - **HTML/JS**
+  - [**Helm**](https://github.com/Lujeni/amber-files/tree/main/helm/example-01)
 
 - **Examples include**: basic syntax, data structures, functions, classes, modules, file I/O, exceptions, and type hints.
 
